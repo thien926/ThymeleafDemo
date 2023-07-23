@@ -5,6 +5,7 @@
 workspace
 *.zip
 *.rar
+
 ### Eclipse ###
 .metadata
 bin/
